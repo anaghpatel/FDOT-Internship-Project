@@ -20,6 +20,7 @@
 *.tar
 *.zip
 ISEConnect_DOT.ps1
+test.ps1
 
 # Logs and databases #
 ######################
